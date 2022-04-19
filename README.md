@@ -1,2 +1,1 @@
-# ListAndArrays
-Exercises about lists
+#Exercises about lists in java
